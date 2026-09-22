@@ -10,10 +10,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0079-word-search](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/0079-word-search) |
+| [1143-longest-common-subsequence](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [1143-longest-common-subsequence](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 ## Manacher
 |  |
 | ------- |
@@ -52,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/0001-two-sum) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
