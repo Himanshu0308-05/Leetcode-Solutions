@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0079-word-search](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/0079-word-search) |
 | [1143-longest-common-subsequence](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 ## Dynamic Programming
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0057-insert-interval](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/0057-insert-interval) |
 | [0079-word-search](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/0079-word-search) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
