@@ -1,42 +1,23 @@
 class Solution {
 public:
-    int dijkstra(int n, vector<vector<int>>& flights, int src, int dst, int k){
-        vector<vector<pair<int , int>>> adj(n);
-        queue<vector<int>> q;
-        for(auto &flight : flights){
-            int a = flight[0];
-            int b = flight[1];
-            int c = flight[2];
-            adj[a].push_back({b,c});
-        }
+    int findCheapestPrice(int n, vector<vector<int>>& flights, int src, int dst, int k) {
         vector<int> dist(n,1e9);
         dist[src] = 0;
-        q.push({0 , src , 0});
+        for(int i=0; i<k+1; i++){
+            vector<int> ndist = dist;
 
-        while(!q.empty()){
-            int stop = q.front()[0];
-            int c = q.front()[1];
-            int dis = q.front()[2];
+            for(auto flight : flights){
+                int u = flight[0];
+                int v = flight[1];
+                int wt = flight[2];
 
-            q.pop();
-            if(stop > k ) continue;
-            for(int i=0; i<adj[c].size(); i++ ){
-                
-                auto[next , wt] = adj[c][i];
-            
-                if(dis + wt < dist[next] && stop <= k  ){
-                        dist[next] = dis + wt;
+                if(dist[u] == 1e9) continue;
 
-                        q.push({stop+1 , next , dist[next]});
-                    }
-                }
-             
+                if(dist[u] + wt < ndist[v]) ndist[v] = dist[u] + wt;
+
+            }
+            dist = ndist;
         }
-        if(dist[dst] == 1e9) return -1;
-        return dist[dst];
-    }
-    int findCheapestPrice(int n, vector<vector<int>>& flights, int src, int dst, int k) {
-
-        return dijkstra(n,flights,src,dst,k);
+        return dist[dst] == 1e9 ? -1 : dist[dst];
     }
 };
