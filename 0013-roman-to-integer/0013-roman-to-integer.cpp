@@ -13,7 +13,7 @@ public:
 
         int ans = 0;
         int n = s.length();
-        for(int i=1;i<n; i++){
+        for(int i=1;i<=n; i++){
             if(mp[s[i-1]] < mp[s[i]]){
                 ans -= mp[s[i-1]];
             }
@@ -22,7 +22,7 @@ public:
                 ans += mp[s[i-1]];
             }
         }
-        ans += mp[s[n-1]];
+        
         return ans;
     }
 };
