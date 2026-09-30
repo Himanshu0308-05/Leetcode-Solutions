@@ -44,11 +44,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0057-insert-interval](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/0057-insert-interval) |
+| [0078-subsets](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/0079-word-search) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/0079-word-search) |
 ## Depth-First Search
 |  |
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
