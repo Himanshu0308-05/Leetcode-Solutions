@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/0079-word-search) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## Backtracking
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## Heap (Priority Queue)
 |  |
@@ -146,4 +148,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Union-Find
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
