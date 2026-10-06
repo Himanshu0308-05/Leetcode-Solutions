@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0057-insert-interval](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/0079-word-search) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/0090-subsets-ii) |
@@ -191,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
