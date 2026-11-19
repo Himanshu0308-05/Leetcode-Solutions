@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Backtracking
 |  |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Algorithm X
 |  |
 | ------- |
@@ -215,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
+## Sorting
+|  |
+| ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 <!---LeetCode Topics End-->
