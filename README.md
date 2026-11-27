@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/0069-sqrtx) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Newton's Method
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/0090-subsets-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -251,5 +254,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 <!---LeetCode Topics End-->
