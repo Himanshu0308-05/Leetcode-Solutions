@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/0069-sqrtx) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Backtracking
 |  |
