@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Manacher
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Algorithm X
 |  |
 | ------- |
