@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3364-minimum-positive-sum-subarray](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Shortest Path
 |  |
 | ------- |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Algorithm X
 |  |
 | ------- |
@@ -256,4 +259,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Himanshu0308-05/Leetcode-Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 <!---LeetCode Topics End-->
